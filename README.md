@@ -100,6 +100,7 @@ Each function includes basic error checking:
 
 ### Results - Git Actions
 
+![Test Results Git Actions](gitActions_tests_passed.JPG)
 
 ## License
 This code is open-source and available for public use. Anyone is free to modify and distribute the code as needed for the projects.
