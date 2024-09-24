@@ -36,4 +36,4 @@ jobs:
         python -m unittest discover  # This will discover and run all unit tests in the project
     - name: Run Pytest
       run: |
-        pytest test_session14.py  # This will run tests in test_session14.py
+        pytest session14_test.py  # This will run tests in session14_test.py
